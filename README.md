@@ -1,2 +1,14 @@
-# data-cleaning-task-1
- Data Cleaning and Preprocessing. This project involves taking a raw dataset from Kaggle, identifying data quality issues (nulls, duplicates, inconsistent formatting), and applying cleaning techniques with Pandas. The repository includes the raw data, cleaned data, Python code, and a summary of changes.
+# Data Cleaning Project - Task 1
+## Project Overview 
+This project focuses on Cleaning and pre processing a raw dataset using Python Pandas.The dataset using is the **Customer Personality Analysis** from Kaggle.
+##Objectives
+-Handle missing values and duplicates
+-Standardize data formats and texts values
+-fix data types and column names
+-Create an analysis-ready Dataset
+#tools Used
+-Python3.x
+-Pandas
+-Numpy
+-Jupyter Notebook
+#Project Structure
